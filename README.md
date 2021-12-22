@@ -1,1 +1,1 @@
-# Snake-Game
+Classic Snake Game built using javascript 
